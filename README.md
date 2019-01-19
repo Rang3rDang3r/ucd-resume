@@ -16,3 +16,5 @@ http://www.youtube.com/user/c9ide.
 
 Happy coding!
 The Cloud9 IDE team
+
+git upload command: git push https://github.com/Rang3rDang3r/ucd-resume.git
